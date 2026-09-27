@@ -49,7 +49,7 @@
 
 <p align="center">
 <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="45%" />
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages" width="45%" />
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" width="45%" />
 </p>
 
 <p align="center">
@@ -64,10 +64,4 @@
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamClaiment&theme=radical&hide_border=true" alt="Streak stats" />
-</p>
-
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="./profile-trophy-output/trophies.svg" alt="Trophies" />
-</a>
 </p>
