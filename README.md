@@ -14,7 +14,7 @@
 
 </div>
 
-## 🛠️ Stack Principal
+## Stack Principal
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="48" height="48" />
@@ -45,7 +45,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" width="48" height="48" />
 </p>
 
-## 📊 Actividad en Vivo y Métricas
+## Actividad en Vivo y Métricas
 
 <p align="center">
 <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="45%" />
@@ -60,7 +60,7 @@
 </picture>
 </p>
 
-## 📈 Tarjetas de Desempeño
+## Tarjetas de Desempeño
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamClaiment&theme=radical&hide_border=true" alt="Streak stats" />
